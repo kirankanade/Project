@@ -2,7 +2,7 @@
 
 exports[`<IssueLink /> should match the snapshot 1`] = `
 .c0 {
-  color: #41addd;
+  color: #0e658c;
   height: 100%;
   color: black;
   display: -webkit-box;
@@ -21,7 +21,7 @@ exports[`<IssueLink /> should match the snapshot 1`] = `
 }
 
 .c0:hover {
-  color: #6cc0e5;
+  color: #0e658c;
 }
 
 <a
