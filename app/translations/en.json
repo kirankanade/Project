@@ -1,0 +1,17 @@
+{
+  "boilerplate.components.Footer.license.message": "This is footer for this project",
+  "boilerplate.components.Header.features": "Features",
+  "boilerplate.components.Header.home": "Home",
+  "boilerplate.containers.FeaturePage.css.header": "Features",
+  "boilerplate.containers.FeaturePage.css.message": "Next generation CSS",
+  "boilerplate.containers.FeaturePage.feedback.header": "Feature1",
+  "boilerplate.containers.FeaturePage.feedback.message": "We can change a language of the project using one click",
+  "boilerplate.containers.FeaturePage.header": "Features",
+  "boilerplate.containers.FeaturePage.scaffolding.header": "Feature2",
+  "boilerplate.containers.FeaturePage.scaffolding.message": "We could change the theme of this project very easily using one click",
+  "boilerplate.containers.HomePage.start_project.header": "Homepage container",
+  "boilerplate.containers.HomePage.start_project.message": "This is basically a homepage - one of the landing pages of the project",
+  "boilerplate.containers.LocaleToggle.de": "de",
+  "boilerplate.containers.LocaleToggle.en": "en",
+  "boilerplate.containers.NotFoundPage.header": "Page not found."
+}
